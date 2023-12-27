@@ -7,7 +7,7 @@ This is a Github repository created to submit the Final Project of the **Fundame
 
 1. `README.md`: A markdown file that explains the content of the repository.
 
-2. `main.ipynb`: A Jupyter Notebook file containing all the relevant exercises of the homework.
+2. `main.ipynb`: A Jupyter Notebook file containing all the relevant exercises of the project.
 
 3. `modules`: A folder that includes two Python files that include custom-made modules made to build Machine Learning classifiers:
 
