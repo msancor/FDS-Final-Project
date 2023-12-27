@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+#Here we ignore the images folder
+images/
+
+#Here we ignore the nwds-xstrikes folder
+nwds-xstrikes/
+
 #.DS_Store
 .DS_Store
 
